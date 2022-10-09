@@ -1,4 +1,9 @@
 title: "Remote theme example"
 remote_theme: just-the-docs/just-the-docs
+
+baseurl: "/ml-notes2" # the subpath of your site, e.g. /blog
+url: http://meagmohit.github.io # the base hostname & protocol for your site, e.g. http://example.com
+
+
 color_scheme: "dark"
 search_enabled: false
